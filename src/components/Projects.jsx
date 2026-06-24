@@ -17,7 +17,7 @@ function ArrowExternalIcon() {
   )
 }
 
-function ExternalLinkIcon() {
+export function ExternalLinkIcon() {
   return (
     <svg viewBox="0 0 24 24">
       <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6" />

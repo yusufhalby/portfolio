@@ -1,3 +1,5 @@
+import { ExternalLinkIcon } from './Projects.jsx'
+
 export default function About() {
   return (
     <section id="about">
@@ -34,7 +36,16 @@ export default function About() {
               <div className="fact-dot"></div>
               <div>
                 <div className="fact-label">Achievement</div>
-                <div className="fact-val">1st Place — Orange Development Center Programming Competition</div>
+                <div className="fact-val">1st Place — Orange Development Center Programming Competition
+                  <div className="proj-links">
+
+                    <a href="https://drive.google.com/file/d/1tgg3YwWg_ftMlvFYz1mYDrzSaOX97BAJ/view?usp=sharing" target="_blank" className="proj-link" key="Certificate">
+                      <ExternalLinkIcon />
+                      Certificate
+                    </a>
+
+                  </div>
+                </div>
               </div>
             </div>
             <div className="fact">
