@@ -7,15 +7,15 @@ export default function Contact() {
         <div className="contact-inner fade-in">
           <p>I'm open to backend, full-stack, and junior DevOps roles — remote preferred, but open to relocation for the right opportunity. If you're building something interesting, I'd like to hear about it.</p>
           <div className="contact-links">
-            <a href="mailto:yousof289kh@gmail.com" className="contact-link">
+            <a href="mailto:yusuf@yusufhalby.com" className="contact-link">
               <span className="contact-link-icon">@</span>
               <span className="contact-link-label">Email</span>
-              <span className="contact-link-val">yousof289kh@gmail.com</span>
+              <span className="contact-link-val">yusuf@yusufhalby.com</span>
             </a>
-            <a href="https://www.linkedin.com/in/yousof289" target="_blank" className="contact-link">
+            <a href="https://www.linkedin.com/in/yusufhalby" target="_blank" className="contact-link">
               <span className="contact-link-icon">in</span>
               <span className="contact-link-label">LinkedIn</span>
-              <span className="contact-link-val">linkedin.com/in/yousof289</span>
+              <span className="contact-link-val">linkedin.com/in/yusufhalby</span>
             </a>
             <a href="https://github.com/yusufhalby" target="_blank" className="contact-link">
               <span className="contact-link-icon">gh</span>

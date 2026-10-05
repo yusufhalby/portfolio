@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://halby.vercel.app/sitemap.xml
+Sitemap: https://www.yusufhalby.com/sitemap.xml
